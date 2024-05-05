@@ -1,5 +1,5 @@
 # DDD (Dairy Dreams Delicacies)
-I have Completed this project using Python **html Css Javascript and django** framework with defualt database **sqlite3**.
+I have working on this project using Python **html Css Javascript and django** framework with defualt database **sqlite3**.
 **how to run this code**
 first we have download python lattest verion
 then add extension which we have need 
